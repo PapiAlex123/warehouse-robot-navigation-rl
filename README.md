@@ -54,6 +54,7 @@ The robot learns to navigate from a starting location to a pickup station while 
 
 The training graph shows reward improvement as the robot learns navigation behavior.
 
+<img width="640" height="480" alt="training_graph png" src="https://github.com/user-attachments/assets/949ec23c-5ac2-47b9-9a32-e8e01a236fc4" />
 
 # How to Run
 
